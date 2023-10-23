@@ -1,7 +1,7 @@
 package com.PracticeProject;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class EmailVerification {
+public class EmailValidation {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		boolean flag=false;
