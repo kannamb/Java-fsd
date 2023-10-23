@@ -2,7 +2,6 @@ package com.ProjectAssistedPractice;
 public class Typecasting{
 
 public static void main(String[] args) {
-	// TODO Auto-generated method stub
 	//implicit conversion
 				System.out.println("Implicit Type Casting");
 				char at='A';
