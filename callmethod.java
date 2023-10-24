@@ -1,5 +1,5 @@
 package assistedprojects;
-public class callMethod {
+public class callmethod {
 int val=100;
 int operation(int val) {
 	val =val*10/100;
