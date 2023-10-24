@@ -1,4 +1,4 @@
-package com.ProjectAssistedPractice;
+package com.ProjectAssistedPractic;
 public class Typecasting{
 
 public static void main(String[] args) {
