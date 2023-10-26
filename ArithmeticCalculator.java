@@ -1,4 +1,4 @@
-ackage com.PracticeProject;
+package com.PracticeProject;
 import java.util.Scanner; 
 public class ArithmaticCalculator {
 
