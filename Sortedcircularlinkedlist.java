@@ -1,4 +1,4 @@
-package Array;
+package Assisted;
 public class Sortedcircularlinkedlist {
 	static class Node {
 		int data;
