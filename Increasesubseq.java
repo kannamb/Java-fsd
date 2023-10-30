@@ -1,4 +1,4 @@
-package practiceproject;
+package assisted;
 import java.util.Scanner;
 public class  Increasesubseq
 {
