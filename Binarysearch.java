@@ -1,4 +1,4 @@
-package com.simplilearn.search;
+package com.Demo.search;
 public class BinarySearch {
 		public static void main(String[] args) {
 		int arr[] = {3,6,9,12,15};
