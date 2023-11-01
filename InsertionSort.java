@@ -1,4 +1,4 @@
-package com.simplilearn.sort;
+package com.Demo.sort;
 public class InsertionSort {
     public static  void main(String[] args){
     	int[] arr = {12,11, 13, 5 ,6};
