@@ -1,4 +1,4 @@
-package com.simplilearn.sort;
+package com.Demo.sort;
 class MergeSort
 {
     void merge(int arr[], int l, int m, int r)
